@@ -1,5 +1,5 @@
 {
-  "name": "random.org.js",
+  "name": "random.org-javascript",
   "version": "1.0.0",
   "description": "Random.org API for Node.JS",
   "main": "index.js",

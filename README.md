@@ -4,7 +4,7 @@
 # Examples
 ## Usage
 ```js
-const Random = require("random.org");
+const Random = require("random.org-javascript");
 
 // Generating True Integer
 Random.generateInteger(0, 500, 10, "Decimal").then(response => {
