@@ -1,0 +1,31 @@
+{
+  "name": "random.org",
+  "version": "1.0.0",
+  "description": "Random.org API for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAdhit/Random.org.js.git"
+  },
+  "keywords": [
+    "Random",
+    "org",
+    "Random.org",
+    "API"
+  ],
+  "author": "MrAdhit <me@mradhit.net>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/MrAdhit/Random.org.js/issues"
+  },
+  "homepage": "https://github.com/MrAdhit/Random.org.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
