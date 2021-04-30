@@ -164,4 +164,4 @@ Generates true random strings.
 
 This allows you to examine your quota at any point in time. The quota system works on the basis of IP addresses. Each IP address has a base quota of 1,000,000 bits. When your client makes a request for random numbers (or strings, etc.), the server deducts the number of bits it took to satisfy your request from the quota associated with your client's IP address.
 
- * **Returns:** `Promise<number>` — Promise Number
+* **Returns:** `Promise<number>` — Promise Number
