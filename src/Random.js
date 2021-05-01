@@ -76,6 +76,7 @@ class Random {
 
                     resolve(text);
                 })
+                .catch(reject)
         })
     }
 
@@ -88,7 +89,7 @@ class Random {
             fetch("https://www.random.org/quota/?format=plain")
             .then(res=>res.text())
             .then(res=>resolve(parseInt(res)))
-            .then(reject);
+            .catch(reject);
         })
     }
 }
