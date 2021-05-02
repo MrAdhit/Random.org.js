@@ -1,4 +1,4 @@
-# random.org.js ![NPM Version](https://img.shields.io/npm/v/random.org-javascript?style=flat-square) ![Build Status](https://img.shields.io/github/workflow/status/MrAdhit/Random.org.js/Basic%20Test?style=flat-square) ![Dependencies](https://img.shields.io/david/mradhit/random.org.js?style=flat-square)
+# random.org.js ![NPM Version](https://img.shields.io/npm/v/random.org-javascript?style=flat-square) ![Build Status](https://img.shields.io/github/workflow/status/MrAdhit/Random.org.js/Basic%20Test?style=flat-square) ![Dependencies](https://img.shields.io/david/mradhit/random.org.js?style=flat-square) ![Vuln](https://img.shields.io/snyk/vulnerabilities/github/MrAdhit/Random.org.js?style=flat-square)
 
 
 
